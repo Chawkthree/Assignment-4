@@ -1,0 +1,33 @@
+.top-bar{
+	background: #4e0000;
+}
+
+.top-bar-section ul li{
+	background: #4e0000;
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button){
+	background: #4e0000;
+}
+
+.top-bar-section a:hover{
+	background: rgba(255, 255, 255, 0.26) !important;
+}
+
+#header{
+	text-align:center;
+	background: #3b0404;
+	color: white;
+}
+
+#header p{
+	margin-bottom: 0px;
+}
+
+.slick-next{
+    right: 50% !important;
+    bottom: !important;
+    top: 97% !important;
+
+}
+
