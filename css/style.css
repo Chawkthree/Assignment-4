@@ -81,6 +81,16 @@ footer p, iframe{
 	padding-bottom: 3%;
 }
 
+#gallery img:hover{
+	border: 5px solid white;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+
+
 
 
 
